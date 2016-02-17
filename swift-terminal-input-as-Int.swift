@@ -1,7 +1,8 @@
 // Using swift on linux
 // accept user input and convert it to an integer
 
-// readLine() function only allows String input must be converted
+// readLine() function only allows String input must be converted 
+// by passing it to the Int() fuction
 
 // Entered 2
 print("Enter a number: ")
